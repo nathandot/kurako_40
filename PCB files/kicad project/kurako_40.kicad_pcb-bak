@@ -356,9 +356,9 @@
     (pad 6 thru_hole oval (at -2.54 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 80 GND))
     (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x03_P2.54mm_Vertical.wrl
-      (at (xyz 0 0 0))
+      (offset (xyz -2.5 0 -2))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 180 0))
     )
   )
 
