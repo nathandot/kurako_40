@@ -2383,7 +2383,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B56A)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B56A)
     (at 126 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2431,7 +2431,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B534)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B534)
     (at 126 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2479,7 +2479,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 61693733)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 61693733)
     (at 164 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2527,7 +2527,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B986)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B986)
     (at 202 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2575,7 +2575,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B96B)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B96B)
     (at 202 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2623,7 +2623,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B950)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B950)
     (at 202 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2671,7 +2671,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B935)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B935)
     (at 183 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2719,7 +2719,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B91A)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B91A)
     (at 183 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2767,7 +2767,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B8FF)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B8FF)
     (at 183 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2815,7 +2815,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B8E4)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B8E4)
     (at 183 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2863,7 +2863,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B8C9)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B8C9)
     (at 164 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2911,7 +2911,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B8AE)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B8AE)
     (at 164 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -2959,7 +2959,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B893)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B893)
     (at 145 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3007,7 +3007,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B878)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B878)
     (at 202 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3055,7 +3055,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B85D)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B85D)
     (at 221 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3103,7 +3103,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B842)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B842)
     (at 221 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3151,7 +3151,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B827)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B827)
     (at 240 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3199,7 +3199,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B80C)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B80C)
     (at 240 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3247,8 +3247,8 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B7F1)
-    (at 240 108.1 180)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B7F1)
+    (at 240 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /6157AB7A)
@@ -3295,7 +3295,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B7D6)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B7D6)
     (at 240 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3343,7 +3343,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B7BB)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B7BB)
     (at 259 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3391,7 +3391,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B7A0)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B7A0)
     (at 259 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3439,7 +3439,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B785)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B785)
     (at 259 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3487,7 +3487,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B76A)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B76A)
     (at 259 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3535,7 +3535,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B735)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B735)
     (at 88 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3583,7 +3583,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B71A)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B71A)
     (at 221 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3631,7 +3631,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B6FF)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B6FF)
     (at 88 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3679,7 +3679,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B6E4)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B6E4)
     (at 88 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3727,7 +3727,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B6C9)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B6C9)
     (at 69 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3775,7 +3775,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B6AE)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B6AE)
     (at 69 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3823,7 +3823,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B693)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B693)
     (at 69 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3871,7 +3871,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B678)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B678)
     (at 69 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3919,7 +3919,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B65D)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B65D)
     (at 50 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -3967,7 +3967,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B642)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B642)
     (at 50 108 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4015,7 +4015,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B627)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B627)
     (at 50 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4063,7 +4063,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B60C)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B60C)
     (at 164 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4111,7 +4111,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B5D6)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B5D6)
     (at 107 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4159,7 +4159,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B5BB)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B5BB)
     (at 107 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4207,7 +4207,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B5A0)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B5A0)
     (at 107 108)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4255,7 +4255,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B585)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B585)
     (at 107 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4303,7 +4303,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B54F)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B54F)
     (at 126 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4351,7 +4351,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B519)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B519)
     (at 135.5 127 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4399,7 +4399,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B4FE)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B4FE)
     (at 145 70 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4447,7 +4447,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B4E3)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B4E3)
     (at 145 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4495,7 +4495,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B4C8)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B4C8)
     (at 221 89 180)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -4543,7 +4543,7 @@
     )
   )
 
-  (module keyswitches:Kailh_socket (layer F.Cu) (tedit 63635147) (tstamp 6156B4AD)
+  (module keyswitches:Kailh_socket locked (layer F.Cu) (tedit 63635147) (tstamp 6156B4AD)
     (at 88 108)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
@@ -5171,7 +5171,7 @@
     )
   )
 
-  (module Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A (layer B.Cu) (tedit 5A142044) (tstamp 61690B52)
+  (module Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A locked (layer B.Cu) (tedit 5A142044) (tstamp 61690B52)
     (at 78.5 62.5)
     (descr "USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A")
     (tags "USB C Type-C Receptacle SMD")

@@ -2233,4 +2233,6 @@ $EndComp
 Wire Wire Line
 	8450 2450 8450 2500
 Connection ~ 8450 2450
+Text Notes 500  800  0    50   ~ 0
+TODO:\n\nSwap Diode package from SOD323 to SOD80\ncorrect RESET switch placement
 $EndSCHEMATC

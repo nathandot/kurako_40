@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER 		0x0001
 #define MANUFACTURER 	Nathan Steward
 #define PRODUCT 		kurako_40
-#define DESCRIPTION 	Just a little guy!
 
 /* key matrix size */
 #define MATRIX_ROWS 4
