@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "D:\\files\\Documents\\GitHub\\kurako_40\\PCB files\\kicad project\\kurako_40.sch")
-    (date "11/14/2022 2:12:15 PM")
+    (date "11/29/2022 8:41:30 AM")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

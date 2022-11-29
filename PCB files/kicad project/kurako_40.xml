@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\files\Documents\GitHub\kurako_40\PCB files\kicad project\kurako_40.sch</source>
-    <date>11/6/2022 9:37:09 PM</date>
+    <date>11/29/2022 8:40:04 AM</date>
     <tool>Eeschema (5.0.2)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -93,7 +93,7 @@
     </comp>
     <comp ref="D1">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -101,7 +101,7 @@
     </comp>
     <comp ref="D5">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -109,7 +109,7 @@
     </comp>
     <comp ref="D2">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -117,7 +117,7 @@
     </comp>
     <comp ref="D3">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -125,7 +125,7 @@
     </comp>
     <comp ref="D7">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -133,7 +133,7 @@
     </comp>
     <comp ref="D6">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -141,7 +141,7 @@
     </comp>
     <comp ref="D4">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -149,7 +149,7 @@
     </comp>
     <comp ref="D8">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -213,7 +213,7 @@
     </comp>
     <comp ref="D9">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -221,7 +221,7 @@
     </comp>
     <comp ref="D13">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -229,7 +229,7 @@
     </comp>
     <comp ref="D10">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -237,7 +237,7 @@
     </comp>
     <comp ref="D11">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -245,7 +245,7 @@
     </comp>
     <comp ref="D15">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -253,7 +253,7 @@
     </comp>
     <comp ref="D14">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -261,7 +261,7 @@
     </comp>
     <comp ref="D12">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -269,7 +269,7 @@
     </comp>
     <comp ref="D16">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -326,7 +326,7 @@
     </comp>
     <comp ref="D17">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -334,7 +334,7 @@
     </comp>
     <comp ref="D21">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -342,7 +342,7 @@
     </comp>
     <comp ref="D18">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -350,7 +350,7 @@
     </comp>
     <comp ref="D19">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -358,7 +358,7 @@
     </comp>
     <comp ref="D23">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -366,7 +366,7 @@
     </comp>
     <comp ref="D22">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -374,7 +374,7 @@
     </comp>
     <comp ref="D20">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -438,7 +438,7 @@
     </comp>
     <comp ref="D24">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -446,7 +446,7 @@
     </comp>
     <comp ref="D28">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -454,7 +454,7 @@
     </comp>
     <comp ref="D25">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -462,7 +462,7 @@
     </comp>
     <comp ref="D26">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -470,7 +470,7 @@
     </comp>
     <comp ref="D30">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -478,7 +478,7 @@
     </comp>
     <comp ref="D29">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -486,7 +486,7 @@
     </comp>
     <comp ref="D27">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -494,7 +494,7 @@
     </comp>
     <comp ref="D31">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -558,7 +558,7 @@
     </comp>
     <comp ref="D32">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -566,7 +566,7 @@
     </comp>
     <comp ref="D36">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -574,7 +574,7 @@
     </comp>
     <comp ref="D33">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -582,7 +582,7 @@
     </comp>
     <comp ref="D34">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -590,7 +590,7 @@
     </comp>
     <comp ref="D38">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -598,7 +598,7 @@
     </comp>
     <comp ref="D37">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -606,7 +606,7 @@
     </comp>
     <comp ref="D35">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -614,7 +614,7 @@
     </comp>
     <comp ref="D39">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -678,7 +678,7 @@
     </comp>
     <comp ref="D40">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -686,7 +686,7 @@
     </comp>
     <comp ref="D44">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -694,7 +694,7 @@
     </comp>
     <comp ref="D41">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -702,7 +702,7 @@
     </comp>
     <comp ref="D42">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -710,7 +710,7 @@
     </comp>
     <comp ref="D46">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -718,7 +718,7 @@
     </comp>
     <comp ref="D45">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -726,7 +726,7 @@
     </comp>
     <comp ref="D43">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -734,7 +734,7 @@
     </comp>
     <comp ref="D47">
       <value>D_ALT</value>
-      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
       <sheetpath names="/" tstamps="/"/>

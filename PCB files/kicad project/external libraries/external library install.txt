@@ -1,0 +1,3 @@
+Please unzip these files in your respective global library path, and 
+append the included library folders in your global footprint
+libraries (Preferences >> Manage Footprint Libraries)
